@@ -8,7 +8,7 @@ facebook:
 flickr:
 gitlab:
 github:
-instagram:
+instagram: DayDamPhoto
 keybase:
 linkedin:
 pinterest:
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: DayDam
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
@@ -27,12 +27,12 @@ tiktok:
 
 # Share button options
 share:
-  facebook: true
+  facebook: False
   twitter: true
-  tumblr:
-  pinterest:
-  pocket:
+  tumblr: False
+  pinterest: False
+  pocket: False
   reddit: true
-  linkedin:
-  wordpress:
+  linkedin: False
+  wordpress: False
   email: true
